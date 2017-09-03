@@ -1,0 +1,26 @@
+Question 2 (Area of Circle 
+
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CircleArea
+Enter the radius: 10
+Area of circle of radius 10.0 is 314.1592653589793 units.
+Enter the radius: 100
+Area of circle of radius 100.0 is 31415.926535897932 units.
+Enter the radius: 5
+Area of circle of radius 5.0 is 78.53981633974483 units.
+Enter the radius: ^Z
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CircleArea
+Enter the radius: 666
+Area of circle of radius 666.0 is 1393472.2710556742 units.
+Enter the radius: 23
+Area of circle of radius 23.0 is 1661.9025137490005 units.
+Enter the radius: 99
+Area of circle of radius 99.0 is 30790.74959783356 units.
+Enter the radius: ^Z
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>

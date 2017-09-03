@@ -16,7 +16,7 @@ public class CircleArea {
 
 		double area = Math.PI * Math.pow(radius, 2);
 
-		System.out.println("Area of circle of radius " + radius + " is " + area);
+		System.out.println("Area of circle of radius " + radius + " is " + area + " units.");
 		 
 		} 
 	}

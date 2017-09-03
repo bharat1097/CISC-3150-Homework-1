@@ -1,0 +1,52 @@
+Question 6 Output:
+
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>javac CompareTwoCircles.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 0 0 2
+Enter center coordinates and radius for Circle 2, separated by a space: 8 9 3
+Distance between centers, d = 12.041594578792296
+r1 + r2 = 5.0
+The circles DON'T overlap.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 0 0 2
+Enter center coordinates and radius for Circle 2, separated by a space: 4 0 2
+Distance between centers, d = 4.0
+r1 + r2 = 4.0
+The circles touch each other.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 4 0 4
+Enter center coordinates and radius for Circle 2, separated by a space: 9 0 4
+Distance between centers, d = 5.0
+r1 + r2 = 8.0
+There's an overlap between the circles.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 5 3 3
+Enter center coordinates and radius for Circle 2, separated by a space: 5 1 2
+Distance between centers, d = 2.0
+r1 + r2 = 5.0
+There's an overlap between the circles.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 5 3 3
+Enter center coordinates and radius for Circle 2, separated by a space: 5 3 1
+Distance between centers, d = 0.0
+r1 + r2 = 4.0
+Circle 2 is inside Circle 1.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java CompareTwoCircles
+Enter center coordinates and radius for Circle 1, separated by a space: 4 0 3
+Enter center coordinates and radius for Circle 2, separated by a space: 4 0 7
+Distance between centers, d = 0.0
+r1 + r2 = 10.0
+Circle 1 is inside Circle 2
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>

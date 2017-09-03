@@ -1,0 +1,46 @@
+Question 5 Output:
+
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>javac TriangleChecker.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java TriangleChecker
+Enter the coordinates of three points A, B, and C to determine if they form a triangle.
+
+Enter X and Y coordinate for Point A, separated by a space: 2 3
+Enter X and Y coordinate for Point B, separated by a space: 7 8
+Enter X and Y coordinate for Point C, separated by a space: 4 10
+
+The points A, B, C form a triangle!
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java TriangleChecker
+Enter the coordinates of three points A, B, and C to determine if they form a triangle.
+
+Enter X and Y coordinate for Point A, separated by a space: 3 1
+Enter X and Y coordinate for Point B, separated by a space: 2 1
+Enter X and Y coordinate for Point C, separated by a space: 4 1
+
+The points A, B, C DON'T form a triangle.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java TriangleChecker
+Enter the coordinates of three points A, B, and C to determine if they form a triangle.
+
+Enter X and Y coordinate for Point A, separated by a space: 4 4
+Enter X and Y coordinate for Point B, separated by a space: 1 0
+Enter X and Y coordinate for Point C, separated by a space: 8 -5
+
+The points A, B, C form a triangle!
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java TriangleChecker
+Enter the coordinates of three points A, B, and C to determine if they form a triangle.
+
+Enter X and Y coordinate for Point A, separated by a space: 6 4
+Enter X and Y coordinate for Point B, separated by a space: 7 4
+Enter X and Y coordinate for Point C, separated by a space: 8 4
+
+The points A, B, C DON'T form a triangle.
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>

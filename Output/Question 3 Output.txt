@@ -1,0 +1,29 @@
+Question 3 Output:
+
+Microsoft Windows [Version 10.0.15063]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Bharat's PC>cd C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java RandomMonthGenerator
+Error: Could not find or load main class RandomMonthGenerator
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>javac RandomMonthGenerator.java
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java RandomMonthGenerator
+The random number generated is: 6
+The month corresponding to that is June
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java RandomMonthGenerator
+The random number generated is: 4
+The month corresponding to that is April
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java RandomMonthGenerator
+The random number generated is: 2
+The month corresponding to that is February
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>java RandomMonthGenerator
+The random number generated is: 1
+The month corresponding to that is January
+
+C:\Users\Bharat's PC\OneDrive\CISC 3150 OOP\Homeworks\Homework 1\src>
